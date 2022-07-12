@@ -1,0 +1,10 @@
+{
+    "name": "com.thinkingdata.unitysdk",
+    "displayName": "ThinkingAnalyticsSDK",
+    "description": "this is ThinkingAnalyticsSDK for unity",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "license": "MIT",
+    "dependencies":
+    {}
+}
