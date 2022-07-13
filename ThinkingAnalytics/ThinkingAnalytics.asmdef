@@ -1,0 +1,16 @@
+{
+    "name": "ThinkingAnalytics",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5e18b23fa7d1346938fb5152f372bd56"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,13 +1,13 @@
 {
     "name": "com.thinkingdata.unitysdk",
-    "displayName": "ThinkingData",
-    "description": "this is ThinkingData sdk for unity",
+    "displayName": "ThinkingAnalytics",
+    "description": "this is ThinkingAnalytics sdk for unity",
     "repository":
     {
         "type": "git",
         "url": "https://github.com/ihuangdiao/UnityPackageManagerDemo"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "unity": "2018.3",
     "license": "Apache V2",
     "author": "ThinkingData",
@@ -16,7 +16,8 @@
         "unity3d",
         "unity3d-package",
         "analytics",
+        "thinking",
         "thinkingdata"
     ],
-    "category": "ThinkingData"
+    "category": "ThinkingAnalytics"
 }

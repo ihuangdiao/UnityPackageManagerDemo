@@ -3,9 +3,7 @@ using ThinkingAnalytics;
 using System.Collections.Generic;
 using System;
 using System.Threading;
-using ThinkingSDK.PC.Storage;
 using ThinkingAnalytics.Utils;
-using ThinkingSDK.PC.Utils;
 
 public class TAExample : MonoBehaviour, IDynamicSuperProperties, IAutoTrackEventCallback
 {
